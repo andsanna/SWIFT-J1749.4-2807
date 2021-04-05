@@ -55,7 +55,7 @@
 
 % Please keep new commands to a minimum, and use \newcommand not \def to avoid
 % overwriting existing commands. Example:
-%\newcommand{\pcm}{\,cm$^{-2}$}	% per cm-squared
+\newcommand{\swiftj}{SWIFT J1749.4-2807}	% per cm-squared
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -63,7 +63,7 @@
 
 % Title of the paper, and the short title which is used in the headers.
 % Keep the title short and informative.
-\title[Short title, max. 45 characters]{MNRAS \LaTeXe\ template -- title goes here}
+\title[Short title, max. 45 characters]{SWIFT J1749.4-2807}
 
 % The list of authors, and the short list which is used in the headers.
 % If you need two or more lines of authors, add an extra line using \newauthor
@@ -115,11 +115,11 @@ Normally the next section describes the techniques the authors used.
 It is frequently split into subsections, such as Section~\ref{sec:maths} below.
 
 \subsection{NICER}
-\label{sec:maths} % used for referring to this section from elsewhere
+%\label{sec:maths} % used for referring to this section from elsewhere
 
-Simple mathematics can be inserted into the flow of the text e.g. $2\times3=6$
-or $v=220$\,km\,s$^{-1}$, but more complicated expressions should be entered
-as a numbered equation:
+NICER \citep{2012SPIE.8443E..13G} started observing the X-ray transient \swiftj{} on 2021 March 1 (MJD 59274.6) up to 2021 March 28 (MJD 59301.8) for a total exposure time of almost 141~ks. We processed the NICER observations with the NICERDAS pipeline version 7.0 (version V007a) retaining events in the 0.2–12 keV energy range, for which the pointing offset was <54 arcsec, the dark Earth limb angle was $>30^\circ$, the bright Earth limb angle was $>40^\circ$, and the ISS location was outside of the South Atlantic Anomaly (SAA). Morepver, we selected events fromt 53 out of the avaibale 56 aligned pairs of X-ray concentrator optics and silicon drift detectors (\textbf{Check with Keith}).
+
+
 
 
 %\begin{equation}
@@ -179,7 +179,7 @@ the final conclusions which the authors draw from their work.
 % The best way to enter references is to use BibTeX:
 
 \bibliographystyle{mnras}
-\bibliography{example} % if your bibtex file is called example.bib
+\bibliography{biblio.bib} % if your bibtex file is called example.bib
 
 
 % Alternatively you could enter them by hand, like this:
@@ -195,12 +195,10 @@ the final conclusions which the authors draw from their work.
 
 %%%%%%%%%%%%%%%%% APPENDICES %%%%%%%%%%%%%%%%%%%%%
 
-\appendix
+%\appendix
 
-\section{Some extra material}
+%\section{Some extra material}
 
-If you want to present additional material which would interrupt the flow of the main paper,
-it can be placed in an Appendix which appears after the list of references.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
