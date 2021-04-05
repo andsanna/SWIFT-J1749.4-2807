@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex mnras_template"] 1616674238 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1616674243
+["bibtex mnras_template"] 1616674238 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1617652290
   "./mnras.bst" 1616674220 43376 8463aa2cc1948e346d5641ca59bb4619 ""
   "example.bib" 1616674220 787 254cb0d9dfcd4686d7da9bd2c0a919ee ""
-  "mnras_template.aux" 1616674239 3040 aa72074835a4be3208dd7711a4ebd8ac "pdflatex"
+  "mnras_template.aux" 1617652270 3040 aa72074835a4be3208dd7711a4ebd8ac "pdflatex"
   (generated)
-  "mnras_template.bbl"
   "mnras_template.blg"
-["pdflatex"] 1616674238 "mnras_template.tex" "mnras_template.pdf" "mnras_template" 1616674243
+  "mnras_template.bbl"
+["pdflatex"] 1617652269 "mnras_template.tex" "mnras_template.pdf" "mnras_template" 1617652290
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1439157308 2880 847ca622ad468c3dafba6a3f9d89a636 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1529098226 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -159,12 +159,12 @@
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "example.png" 1616674220 4909 4740735052485afd616307cbd24a4bde ""
   "mnras.cls" 1616674220 62657 f252e2c707372bfc3609684578d8db01 ""
-  "mnras_template.aux" 1616674239 3040 aa72074835a4be3208dd7711a4ebd8ac "pdflatex"
-  "mnras_template.bbl" 1616674238 1581 7f205c4383c13eff850784d7c6aacbb2 "bibtex mnras_template"
-  "mnras_template.out" 1616674239 343 5b0e558ddcc80866670b587f94f27d86 "pdflatex"
-  "mnras_template.tex" 1616674220 8362 70f16a33d03ab4d36e653b6de44a132c ""
+  "mnras_template.aux" 1617652270 3040 aa72074835a4be3208dd7711a4ebd8ac "pdflatex"
+  "mnras_template.bbl" 1617652086 1581 7f205c4383c13eff850784d7c6aacbb2 "bibtex mnras_template"
+  "mnras_template.out" 1617652270 343 5b0e558ddcc80866670b587f94f27d86 "pdflatex"
+  "mnras_template.tex" 1617652268 8055 fee098e5b2f8eed35d259479f35256fb ""
   (generated)
-  "mnras_template.aux"
-  "mnras_template.out"
   "mnras_template.log"
   "mnras_template.pdf"
+  "mnras_template.out"
+  "mnras_template.aux"

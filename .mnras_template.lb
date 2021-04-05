@@ -27,11 +27,11 @@ sVfiles_with_guttermarks
 p14
 g4
 ((lp15
-S'mnras_template.tex'
+V/Users/asanna/Documents/GitHub/SWIFT-J1749.4-2807/mnras_template.tex
 p16
-aV/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+aS'mnras_template.tex'
 p17
-aV/Users/asanna/Documents/GitHub/SWIFT-J1749.4-2807/mnras_template.tex
+aV/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
 p18
 atp19
 Rp20

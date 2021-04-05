@@ -1,13 +1,13 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: mnras_template.aux
+The top-level auxiliary file: ./mnras_template.aux
 The style file: mnras.bst
 Database file #1: example.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 4 entries,
             2881 wiz_defined-function locations,
-            742 strings with 6242 characters,
+            742 strings with 6246 characters,
 and the built_in function-call counts, 1719 in all, are:
 = -- 152
 > -- 104
