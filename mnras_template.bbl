@@ -17,11 +17,77 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
-\bibitem[\protect\citeauthoryear{Gendreau, Arzoumanian  \& Okajima}{Gendreau
-  et~al.}{2012}]{2012SPIE.8443E..13G}
-Gendreau K.~C.,  Arzoumanian Z.,   Okajima T.,  2012, in Space Telescopes and
-  Instrumentation 2012: Ultraviolet to Gamma Ray. Proceedings of the SPIE.
-  International Society for Optics and Photonics, p. 844313
+\bibitem[\protect\citeauthoryear{{Bult} et~al.,}{{Bult}
+  et~al.}{2021}]{Bult:2021wk}
+{Bult} P.~M.,  et~al., 2021, The Astronomer's Telegram, \href
+  {https://ui.adsabs.harvard.edu/abs/2021ATel14428....1B} {14428, 1}
+
+\bibitem[\protect\citeauthoryear{{Burderi} et~al.,}{{Burderi}
+  et~al.}{2007}]{Burderi:2007tl}
+{Burderi} L.,  et~al., 2007, \mn@doi [\apj] {10.1086/510659}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...657..961B} {657, 961}
+
+\bibitem[\protect\citeauthoryear{{Deeter}, {Boynton}  \& {Pravdo}}{{Deeter}
+  et~al.}{1981}]{Deeter:1981te}
+{Deeter} J.~E.,  {Boynton} P.~E.,   {Pravdo} S.~H.,  1981, \mn@doi [\apj]
+  {10.1086/159110}, \href
+  {https://ui.adsabs.harvard.edu/abs/1981ApJ...247.1003D} {247, 1003}
+
+\bibitem[\protect\citeauthoryear{{Finger}, {Bildsten}, {Chakrabarty}, {Prince},
+  {Scott}, {Wilson}, {Wilson}  \& {Zhang}}{{Finger}
+  et~al.}{1999}]{Finger:1999vb}
+{Finger} M.~H.,  {Bildsten} L.,  {Chakrabarty} D.,  {Prince} T.~A.,  {Scott}
+  D.~M.,  {Wilson} C.~A.,  {Wilson} R.~B.,   {Zhang} S.~N.,  1999, \mn@doi
+  [\apj] {10.1086/307191}, \href
+  {https://ui.adsabs.harvard.edu/abs/1999ApJ...517..449F} {517, 449}
+
+\bibitem[\protect\citeauthoryear{{Gendreau}, {Arzoumanian}  \&
+  {Okajima}}{{Gendreau} et~al.}{2012}]{Gendreau:2012vf}
+{Gendreau} K.~C.,  {Arzoumanian} Z.,   {Okajima} T.,  2012, in {Takahashi} T.,
+  {Murray} S.~S.,   {den Herder} J.-W.~A.,  eds,  Society of Photo-Optical
+  Instrumentation Engineers (SPIE) Conference Series Vol. 8443, Space
+  Telescopes and Instrumentation 2012: Ultraviolet to Gamma Ray. p. 844313,
+  \mn@doi{10.1117/12.926396}
+
+\bibitem[\protect\citeauthoryear{{Jansen} et~al.,}{{Jansen}
+  et~al.}{2001}]{Jansen2001}
+{Jansen} F.,  et~al., 2001, \mn@doi [\aap] {10.1051/0004-6361:20000036}, \href
+  {http://adsabs.harvard.edu/abs/2001A%26A...365L...1J} {365, L1}
+
+\bibitem[\protect\citeauthoryear{{Jonker}, {Torres}, {Steeghs}  \&
+  {Chakrabarty}}{{Jonker} et~al.}{2013}]{Jonker:2013wp}
+{Jonker} P.~G.,  {Torres} M. A.~P.,  {Steeghs} D.,   {Chakrabarty} D.,  2013,
+  \mn@doi [\mnras] {10.1093/mnras/sts363}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013MNRAS.429..523J} {429, 523}
+
+\bibitem[\protect\citeauthoryear{{Kirsch}, {Mukerjee}, {Breitfellner},
+  {Djavidnia}, {Freyberg}, {Kendziorra}  \& {Smith}}{{Kirsch}
+  et~al.}{2004}]{Kirsch:2004tg}
+{Kirsch} M.~G.~F.,  {Mukerjee} K.,  {Breitfellner} M.~G.,  {Djavidnia} S.,
+  {Freyberg} M.~J.,  {Kendziorra} E.,   {Smith} M.~J.~S.,  2004, \mn@doi [\aap]
+  {10.1051/0004-6361:200400022}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004A&A...423L...9K} {423, L9}
+
+\bibitem[\protect\citeauthoryear{{Lyne} \& {Graham-Smith}}{{Lyne} \&
+  {Graham-Smith}}{1990}]{Lyne90}
+{Lyne} A.~G.,  {Graham-Smith} F.,  1990, {Pulsar astronomy}.
+Cambridge University Press
+
+\bibitem[\protect\citeauthoryear{{Markwardt} \& {Strohmayer}}{{Markwardt} \&
+  {Strohmayer}}{2010}]{Markwardt:2010tl}
+{Markwardt} C.~B.,  {Strohmayer} T.~E.,  2010, \mn@doi [\apjl]
+  {10.1088/2041-8205/717/2/L149}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010ApJ...717L.149M} {717, L149}
+
+\bibitem[\protect\citeauthoryear{{Sanna} et~al.,}{{Sanna}
+  et~al.}{2016}]{Sanna:2016ty}
+{Sanna} A.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw740}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016MNRAS.459.1340S} {459, 1340}
+
+\bibitem[\protect\citeauthoryear{{Sanna} et~al.,}{{Sanna}
+  et~al.}{2018}]{Sanna:2018wh}
+{Sanna} A.,  et~al., 2018, \mn@doi [\aap] {10.1051/0004-6361/201834160}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018A&A...617L...8S} {617, L8}
 
 \makeatother
 \end{thebibliography}
