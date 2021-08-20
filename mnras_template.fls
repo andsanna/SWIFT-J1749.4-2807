@@ -113,6 +113,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT mnras_template.aux
@@ -282,14 +284,14 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-
 INPUT plot_lc_phase_residuals.pdf
 INPUT ./plot_lc_phase_residuals.pdf
 INPUT ./plot_lc_phase_residuals.pdf
-INPUT mnras_template.bbl
-INPUT mnras_template.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/newtx/ntxexx.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/txexs.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/newtx/ntxmi5.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/NewTXMI5.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
+INPUT mnras_template.bbl
+INPUT mnras_template.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/txmiaX.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm

@@ -48,7 +48,7 @@
 \usepackage{graphicx}	% Including figure files
 \usepackage{amsmath}	% Advanced maths commands
 %\usepackage{amssymb}	% Extra maths symbols
-
+\usepackage{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%% AUTHORS - PLACE YOUR OWN COMMANDS HERE %%%%%
@@ -140,8 +140,8 @@ The 0.5-10 keV light-curve of the source shows an average count-rate around 40 c
 
 \subsection{NuSTAR}
 
-
-\subsection{Timing analysis}
+\section{Data analysis and results}
+%\subsection{Timing analysis}
 
 Both NICER and XMM-Newton observations registered several X-ray type-I bursts and X-ray eclipses during the outburst of the source. To investigate the temporal behavious of the X-ray pulsar we decided to exclude them from the analaysis by ignoring time intervals of $\pm 50$ seconds before and after the events. Moreover, we retained only events with energies within the range 0.5 to 10 keV. We then corrected the photon arrival times to the solar system barycenter using the Chandra coordinates of the source \citep{Jonker:2013wp}.
 
@@ -197,6 +197,9 @@ R_{pos}(t) = - \nu_0 y [\sin(M_0+\epsilon)\cos \gamma \delta\lambda -  \cos(M_0+
 where $y=r_E/c$ represents the Earth semi-major axis in light-seconds, $M_0=2 \pi (T_0-T_{v})/P_{\oplus}-\lambda$, $T_{v}$ and $P_{\oplus}$ are the vernal point and the Earth orbital period, respectively, and $\epsilon=2\pi(t-T_0)/P_{\oplus}$ \citep[see, e.g.][]{Lyne90}. Given the short duration of the outburst with respect to Earth's orbital period, we can solve Eq.\ref{eq:pos} by expanding it in series of $\epsilon\ll1$ \cite[see e.g.][and references therein]{Burderi:2007tl}. This allows to estimate upper limits on the spin frequency correction and the spin derivative as $\sigma_{\nu_{pos}}\leq \nu_0y\sigma_{v}(1+\sin^2\gamma)^{1/2}2\pi/P_{\oplus}$ and $\sigma_{\dot{\nu}_{pos}}\leq \nu_0y\sigma_{v}(1+\sin^2\gamma)^{1/2}(2\pi/P_{\oplus})^2$, respectively, where $\sigma_{v}$ represents the positional error circle. Using the source position reported in Tab.~\ref{tab:solution} \citep{Jonker:2013wp}, we estimated $\sigma_{\nu_{pos}} \leq 1.4\times 10^{-7}$ Hz and $\sigma_{\dot{\nu}_{pos}} \leq 3\times 10^{-14}$ Hz/s, respectively. We added in quadrature these systematic uncertainties to the statistical errors of $\nu_0$ and $\dot{\nu}$ estimated from the timing analysis.
 
 
+\begin{comment}
+\textbf{to be updated}
+\end{comment}
 The average pulse profile differs significantly from a sinusoidal function. It is well described by using a combination of two sinusoids shifted in phase. The XMM-Newton (NuSTAR) fundamental and second harmonic have background-corrected fractional amplitudes of 5.6\% (4\%) and 3.4\% (1.6\%), respectively. For the NICER average profile we obtain fractional ampli- tudes of 4.7\% and 3.1\% for the fundamental and second harmonic (not corrected for the background), respectively.
 
 \begin{figure*}
@@ -225,12 +228,45 @@ The average pulse profile differs significantly from a sinusoidal function. It i
 %\end{table}
 
 
-\section{Results}
+%\section{Results}
+
+
+Finally, by combining the more accurate orbital ephemerides reported for the 2010 outburst of the source \citep{Markwardt:2010tl}, we investigated the long term orbital evolution by studying independently the variation of the orbital period and the delay accumulated by $T_{NOD}$ as a function the orbital cycles elapsed since its discovery. 
+
+The variation of the orbital period obtained by combining the most accurate timing solution of the last two outbursts of \swiftj{} is $\Delta P_{orb}=0.1227(84)$ s. Interestingly and not commonly reported for AMXPs, the secular obital evoliution can be directly estimated by the direct measument of the orbital period thanks to its relative large variation and the small uncertainties associated with the single measurments \citep[somehting similar has been observed only for the AMXP IGR J17511-3057][]{Riggio2021}. Taking into account that the number of orbital cycles elapsed in between the two outbursts is $N=10817$, we can estimate an orbital peridod derivative $\dot{P}_{orb}=3.6(2)\times 10^{-10}$ s/s compatible with a fast expansion of the binary system.
+
+The presence of significant first derivative of the orbital period of the system should affect the evolution of other orbital parameters such as the time of passage from the ascending node. In fact, by extending the analogy of coherent timing analysis to the orbital parametes, we can approximate $T_{NOD}$ with the expression
+
+\begin{equation}
+\label{eq:evo}
+T_{NOD}=T_{0,NOD}+N P_{0,orb}+\frac{1}{2}N^2P_{0,orb}\dot{P}_{orb},
+\end{equation}
+where $T_{0,NOD}$, $P_{0,orb}$ and $\dot{P}_{orb}$ represent the time of passage from the ascending node, the orbital period and its derivativs with respect to a specific reference epoch, respectively. 
+To verify the compatibility of the $T_{NOD}$ values mesured in the two outbursts with the inferred orbital period derivative, we take the 2010 orbital solution as a reference and we estimated the $T_{NOD}$ value for the latest outburst assuming $\dot{P}_{orb}=3.6(2)\times 10^{-10}$ s/s. To be able to use Eq.\ref{eq:evo}, we quantify the number of orbital cycles elapsed in between the two outbursts as N=INT[($T_{2021,NOD}-T_{2010,NOD}$/$P_{2010,orb}$], where INT represents the closest integer. Combining all we estimate a guess of the time of passage from the ascenfing node of $T_{2021,NOD}=59274.4950(14)$ MJD, which is compatible within uncertaities with the measured value reported in the Table.\ref{tab:solution}.
+
+
 
 \section{Discussion}
 
-The last numbered section should briefly summarise what has been done, and describe
-the final conclusions which the authors draw from their work.
+\begin{itemize}
+We have reported an updated timing solution for the perculiar accreting millisecond X-ray pulsar \swiftj{} obtained by performing phase-coherent timing analysis of the X-ray pulsations detected by \nicer{} and \xmm{} during the latest outburst of the source. Interestingly, the new set of orbital parameters show significant signs of temporal evolution with respect to the timing solution obtained from the first outburst \citep{Markwardt:2010tl}, which likely suggests conspicuous mass-loss from the companion star. Moreover, we find evidence of low eccentricy 
+	
+\item \textbf{Jumps in the fundamental component: pulse profile changes?}
+\item \textbf{maybe creation of pulse profiles at different times during the outburst}
+
+
+
+
+
+\item \textbf{comparison with 2010 solution}
+\item \textbf{Asin(i)/c expansion marginally significant if we take all errors into account. Expansion is too fast, it would require to much matter lost - Apply Kepler's third law logaritmic derivative to show that}
+\item \textbf{Eccentricity larger than 0, marginally significant but in line with 2010. Possible to exoplain with Phynney 1982. - Verify whether the same values are found also in binary radio millisecond pulsars}
+\item \textbf{Orbital period expansion - discuss possible scenarios of mass transferr}
+\item \textbf{Long-term spin frequency evolution - I need to correct for the new coordinates}
+\item \textbf{...}
+\end{itemize}
+
+\subsection{Orbital evolution}
 
 \section*{Acknowledgements}
 

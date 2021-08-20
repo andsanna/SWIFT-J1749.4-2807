@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex mnras_template"] 1621151230 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1621151230
+["bibtex mnras_template"] 1626800671 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1626800675
   "./mnras.bst" 1616674220 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "/Users/asanna/Desktop/Work/biblio.bib" 1620677220 1344315 471f3b6a0808ce8f745db3dc83eeab5b ""
-  "mnras_template.aux" 1620598605 5886 cba7eacfe3ce233e33770736c024eb39 "pdflatex"
+  "/Users/asanna/Desktop/Work/biblio.bib" 1625068333 1351707 620ae7648aa888804a3a33ce7759fc37 ""
+  "mnras_template.aux" 1623396306 6068 5186a881b90aa1a19423c6c3df72d25e "pdflatex"
   (generated)
   "mnras_template.bbl"
   "mnras_template.blg"
-["pdflatex"] 1620598604 "mnras_template.tex" "mnras_template.pdf" "mnras_template" 1621151230
+["pdflatex"] 1623396305 "mnras_template.tex" "mnras_template.pdf" "mnras_template" 1626800675
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc" 1439157308 3096 d5cbf7aaa5d98173845186200e5ccea8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1439157308 2880 847ca622ad468c3dafba6a3f9d89a636 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -97,6 +97,7 @@
   "/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty" 1576625391 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty" 1581632200 4947 0c2888dd88121ae675fc6e82213623ba ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty" 1581112666 2821 2c0928feafd5527387e29a1af774d030 ""
+  "/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty" 1472166125 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1569190624 45259 743c52a37a6e5ed83cfe0e128b2da10d ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1395693695 14170 4202cf11062745283a9a5fdc97c16c48 ""
@@ -143,13 +144,13 @@
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1615642986 2432456 f5f61604c9bfcb5e8da990f4323e922e ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "mnras.cls" 1616674220 62657 f252e2c707372bfc3609684578d8db01 ""
-  "mnras_template.aux" 1620598605 5886 cba7eacfe3ce233e33770736c024eb39 "pdflatex"
-  "mnras_template.bbl" 1621151230 4466 da1467b701a85ce25423eff8b88d4650 "bibtex mnras_template"
-  "mnras_template.out" 1620598605 432 11459a1128569ae1468b16c082213a1c "pdflatex"
-  "mnras_template.tex" 1620596750 17227 ba15b49b3d79845a99f73eea1ec0e657 ""
+  "mnras_template.aux" 1623396306 6068 5186a881b90aa1a19423c6c3df72d25e "pdflatex"
+  "mnras_template.bbl" 1626800672 4466 da1467b701a85ce25423eff8b88d4650 "bibtex mnras_template"
+  "mnras_template.out" 1623396306 452 4d34daf99fa9cf77c1419dba7e454d33 "pdflatex"
+  "mnras_template.tex" 1621495588 21141 e267e10979f0bbe3fdd97a3483f44719 ""
   "plot_lc_phase_residuals.pdf" 1620598592 162927 ac12d2a6459980c2ec1bb03403f1bf56 ""
   (generated)
-  "mnras_template.out"
-  "mnras_template.log"
   "mnras_template.aux"
+  "mnras_template.log"
+  "mnras_template.out"
   "mnras_template.pdf"
