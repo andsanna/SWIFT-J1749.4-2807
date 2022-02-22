@@ -3,48 +3,53 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: mnras_template.aux
 The style file: mnras.bst
 Database file #1: /Users/asanna/Desktop/Work/biblio.bib
-Warning--I didn't find a database entry for "Riggio2021"
+Repeated entry---line 510 of file /Users/asanna/Desktop/Work/biblio.bib
+ : @article{Mereminskiy2021
+ :                         ,
+I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 12 entries,
+Warning--empty publisher in Riggio2022
+Warning--empty publisher in Sanna2022
+You've used 100 entries,
             2881 wiz_defined-function locations,
-            840 strings with 10499 characters,
-and the built_in function-call counts, 5791 in all, are:
-= -- 463
-> -- 413
-< -- 22
-+ -- 178
-- -- 61
-* -- 734
-:= -- 880
+            1614 strings with 37880 characters,
+and the built_in function-call counts, 48479 in all, are:
+= -- 4015
+> -- 3411
+< -- 225
++ -- 1471
+- -- 511
+* -- 6080
+:= -- 7416
 add.period$ -- 0
-call.type$ -- 12
-change.case$ -- 24
-chr.to.int$ -- 12
-cite$ -- 12
-duplicate$ -- 291
-empty$ -- 298
-format.name$ -- 103
-if$ -- 1010
-int.to.chr$ -- 1
+call.type$ -- 100
+change.case$ -- 201
+chr.to.int$ -- 95
+cite$ -- 102
+duplicate$ -- 2396
+empty$ -- 2398
+format.name$ -- 837
+if$ -- 8509
+int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 13
-newline$ -- 50
-num.names$ -- 80
-pop$ -- 68
+missing$ -- 104
+newline$ -- 315
+num.names$ -- 669
+pop$ -- 493
 preamble$ -- 1
-purify$ -- 48
+purify$ -- 400
 quote$ -- 0
-skip$ -- 175
+skip$ -- 1519
 stack$ -- 0
-substring$ -- 310
-swap$ -- 158
-text.length$ -- 51
+substring$ -- 2809
+swap$ -- 1335
+text.length$ -- 415
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 105
-warning$ -- 0
-while$ -- 85
+type$ -- 888
+warning$ -- 2
+while$ -- 740
 width$ -- 0
-write$ -- 133
-(There was 1 warning)
+write$ -- 1016
+(There was 1 error message)
