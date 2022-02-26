@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex mnras_template"] 1645485027 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1645487001
+["bibtex mnras_template"] 1645909914 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1645910016
   "./mnras.bst" 1616674220 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "/Users/asanna/Desktop/Work/biblio.bib" 1645482391 1461891 31d4756324a7f7a59b9e329194c2016b ""
-  "mnras_template.aux" 1645486999 23060 c0c36e58e47b7aca67bf61f65ea23f24 "pdflatex"
+  "/Users/asanna/Desktop/Work/biblio.bib" 1645659525 1469699 f55621ff7f03b53e0f2b57e6e3927ca8 ""
+  "mnras_template.aux" 1645910014 23181 bef37e0453a1598832ef4c9b8fc9a528 "pdflatex"
   (generated)
   "mnras_template.bbl"
   "mnras_template.blg"
-["pdflatex"] 1645486998 "mnras_template.tex" "mnras_template.pdf" "mnras_template" 1645487001
+["pdflatex"] 1645910013 "mnras_template.tex" "mnras_template.pdf" "mnras_template" 1645910016
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc" 1439157308 3096 d5cbf7aaa5d98173845186200e5ccea8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1439157308 2880 847ca622ad468c3dafba6a3f9d89a636 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -156,13 +156,13 @@
   "alpha_vs_m1_non_conservative.pdf" 1642803483 41481 9bd7818b2a75a7d16ccd60e8c70d1de3 ""
   "best_profile.pdf" 1644412557 53663 5fca53b7f8dafb80940525c18a1b711d ""
   "mnras.cls" 1616674220 62657 f252e2c707372bfc3609684578d8db01 ""
-  "mnras_template.aux" 1645486999 23060 c0c36e58e47b7aca67bf61f65ea23f24 "pdflatex"
-  "mnras_template.bbl" 1645485027 29338 8e4ca2d32a7daf82088c7e9dd8c20fa8 "bibtex mnras_template"
-  "mnras_template.out" 1645486999 716 bd26a32ec649480beb1172ca1e5e1664 "pdflatex"
-  "mnras_template.tex" 1645486995 81898 25e2e68ba9ffe922cd250444073ef81a ""
+  "mnras_template.aux" 1645910014 23181 bef37e0453a1598832ef4c9b8fc9a528 "pdflatex"
+  "mnras_template.bbl" 1645909915 29463 d0aa00104c8ad3dbd5ea25f1d45b5fdb "bibtex mnras_template"
+  "mnras_template.out" 1645910014 716 bd26a32ec649480beb1172ca1e5e1664 "pdflatex"
+  "mnras_template.tex" 1645910010 85050 055922cd1055587bffd684bc4d06ba35 ""
   "plot_lc_phase_residuals.pdf" 1645403025 167987 013d745227d1d59a7f7bb9bf3a39622d ""
   (generated)
   "mnras_template.aux"
+  "mnras_template.out"
   "mnras_template.log"
   "mnras_template.pdf"
-  "mnras_template.out"

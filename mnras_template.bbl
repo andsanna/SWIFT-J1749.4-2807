@@ -82,9 +82,15 @@
   [\apj] {10.3847/1538-4357/ab9827}, \href
   {https://ui.adsabs.harvard.edu/abs/2020ApJ...898...38B} {898, 38}
 
+\bibitem[\protect\citeauthoryear{{Bult}, {Strohmayer}, {Malacaria}, {Ng}  \&
+  {Wadiasingh}}{{Bult} et~al.}{2021a}]{Bult:2021vs}
+{Bult} P.,  {Strohmayer} T.~E.,  {Malacaria} C.,  {Ng} M.,   {Wadiasingh} Z.,
+  2021a, \mn@doi [\apj] {10.3847/1538-4357/abf13f}, \href
+  {https://ui.adsabs.harvard.edu/abs/2021ApJ...912..120B} {912, 120}
+
 \bibitem[\protect\citeauthoryear{{Bult} et~al.,}{{Bult}
-  et~al.}{2021}]{Bult:2021wk}
-{Bult} P.~M.,  et~al., 2021, The Astronomer's Telegram, \href
+  et~al.}{2021b}]{Bult:2021wk}
+{Bult} P.~M.,  et~al., 2021b, The Astronomer's Telegram, \href
   {https://ui.adsabs.harvard.edu/abs/2021ATel14428....1B} {14428, 1}
 
 \bibitem[\protect\citeauthoryear{{Burderi} et~al.,}{{Burderi}
@@ -470,17 +476,11 @@ Cambridge University Press
 {Remillard} R.~A.,  et~al., 2021, arXiv e-prints, \href
   {https://ui.adsabs.harvard.edu/abs/2021arXiv210509901R} {p. arXiv:2105.09901}
 
-\bibitem[\protect\citeauthoryear{{Riggio}}{{Riggio}}{2022}]{Riggio2022}
-{Riggio} A. e.~a.,  2022, in prep.
-
 \bibitem[\protect\citeauthoryear{{Riggio}, {Di Salvo}, {Burderi}, {Menna},
   {Papitto}, {Iaria}  \& {Lavagetto}}{{Riggio} et~al.}{2008}]{Riggio:2008wz}
 {Riggio} A.,  {Di Salvo} T.,  {Burderi} L.,  {Menna} M.~T.,  {Papitto} A.,
   {Iaria} R.,   {Lavagetto} G.,  2008, \mn@doi [\apj] {10.1086/533578}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...678.1273R} {678, 1273}
-
-\bibitem[\protect\citeauthoryear{{Sanna}}{{Sanna}}{2022}]{Sanna2022}
-{Sanna} A. e.~a.,  2022, in prep.
 
 \bibitem[\protect\citeauthoryear{{Sanna} et~al.,}{{Sanna}
   et~al.}{2016}]{Sanna:2016ty}
