@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.13)  26 FEB 2022 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.13)  27 FEB 2022 23:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -854,9 +854,19 @@ Underfull \vbox (badness 4899) has occurred while \output is active []
                                                   \fi \fi 
 l.378 \begin{eqnarray}
                        <./alpha_vs_m1_non_conservative.pdf>] [10]
-(./mnras_template.bbl
+Underfull \hbox (badness 2326) in paragraph at lines 446--448
+\T1/ntxtlf/m/n/9 The data uti-lized in this ar-ti-cle are pub-licly avail-able 
+at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--448
+[][]\T1/ntxtlf/m/n/9 https://heasarc.gsfc.nasa.gov/cgi-bin/W3Browse/w3browse.pl
+[][],
+ []
+
+[11] (./mnras_template.bbl
 LaTeX Info: Redefining \VAN on input line 1.
- [11]
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
 55.
 
@@ -865,19 +875,16 @@ File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 8.0pt on input line 55.
-
-Underfull \vbox (badness 7116) has occurred while \output is active []
-
  [12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 477.
-
-[13
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
+ [13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 477.
- (./mnras_template.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 477.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 477.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
+
+(./mnras_template.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 479.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
 Package rerunfilecheck Info: File `mnras_template.out' has not changed.
 (rerunfilecheck)             Checksum: BD26A32EC649480BEB1172CA1E5E1664;716.
 
@@ -885,16 +892,16 @@ Package rerunfilecheck Info: File `mnras_template.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.97499pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 477.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 479.
  ) 
 Here is how much of TeX's memory you used:
  11248 strings out of 480608
  158035 string characters out of 5903630
- 464089 words of memory out of 5000000
+ 461751 words of memory out of 5000000
  26731 multiletter control sequences out of 15000+600000
  661643 words of font info for 230 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,46p,2920b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,15n,46p,2920b,668s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -913,10 +920,10 @@ sya.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/loc
 al/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on mnras_template.pdf (13 pages, 595654 bytes).
+Output written on mnras_template.pdf (13 pages, 596001 bytes).
 PDF statistics:
- 1025 PDF objects out of 1200 (max. 8388607)
- 959 compressed objects within 10 object streams
+ 1026 PDF objects out of 1200 (max. 8388607)
+ 960 compressed objects within 10 object streams
  151 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

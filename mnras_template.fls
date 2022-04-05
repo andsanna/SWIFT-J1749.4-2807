@@ -430,11 +430,11 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-INPUT mnras_template.bbl
-INPUT mnras_template.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
+INPUT mnras_template.bbl
+INPUT mnras_template.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm

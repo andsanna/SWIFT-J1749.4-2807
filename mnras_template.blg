@@ -2,8 +2,8 @@ This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: mnras_template.aux
 The style file: mnras.bst
-Database file #1: /Users/asanna/Desktop/Work/biblio.bib
-Repeated entry---line 560 of file /Users/asanna/Desktop/Work/biblio.bib
+Database file #1: biblio.bib
+Repeated entry---line 567 of file biblio.bib
  : @article{Mereminskiy2021
  :                         ,
 I'm skipping whatever remains of this entry
@@ -11,7 +11,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 99 entries,
             2881 wiz_defined-function locations,
-            1615 strings with 38092 characters,
+            1615 strings with 38065 characters,
 and the built_in function-call counts, 48236 in all, are:
 = -- 4017
 > -- 3402
