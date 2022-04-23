@@ -1,0 +1,71 @@
+We thank the reviewer for the comments and suggestions on the manuscript. Suggested comments are very useful and improved the quality of the manuscript. We replied to all the comments and made the respective changes. All changes made in the revised version are highlighted in bold font. Respective replies to the suggested comments are mentioned here below.
+
+
+>>Reviewer's Comments:
+>>Reviewer: 1
+
+>>Comments to the Author
+>>This is an interesting paper reporting the evidence for significant long-term evolution in the orbital >>parameters of the eclipsing accreting millisecond X-ray pulsar SWIFT J1749.4-2807. 
+
+>>The authors carried out a careful work of data analysis and intepretation, collecting data obtained with >>different high-energy facilities over 11 years. The obtained results are new and of interest for the >>community, deserving publication. However, some more work is needed to improve the paper shape and the >>presentation of the results, also in terms of clarity. Below, I list my comments to the paper in detail.
+
+
+>>Sect. 1, page 2: "PSR J0023+0038" -> "PSR J1023+0038".
+Done
+
+
+>>Sect. 1, page 2: "Low luminosity systems such as PSR J0023+0038 (...) and XSS J12270−4859 (...) showed >>indirect evidence for such alternating behaviour"; it may be worth reporting also that indirect evidences >>for neutron stars switching between rotation and accretion powered pulsations have been reported for some >>AMXPs, on the basis of their quiescent luminosity (e.g. Burderi+03, A&A, 404, L43; Campana+04, ApJ, 614, >>L49; D'Avanzo+09, A&A, 508, 297).
+
+We now included a new sentence in the manuscript.
+
+
+>>Sect. 1, page 2: "For only nine AMXPs have pulsations been detected" -> "For only nine AMXPs pulsations >>have been detected".
+
+Done
+
+>>Table 1: are the source coordinates reported here from Chandra? If so, it should be specified in the >>caption.
+
+We now specified the details of the X-ray coordinates of the source reported in Table 1.
+
+>>Figure 1: please specify in the caption that MJD 59274 corresponds to 2021 March 1.
+
+Done.
+
+>>Figure 1: it would be useful to have the same scale on the y axis for the 3rd and 4th panel.
+
+
+
+
+Figure 1, 3rd panel: three phase jumps (~ 0.5 pulse phase) episodes are shown here (and discussed in the text) around days 1, 7 and 11. However, it is not clear why only the first episode has been investigated in detail (letters a - d and Fig. 2). Too low statistics for the episodes at day 7 and 11? This should be specified/discussed.
+
+Figure 1: it may be useful to show zooms of the NICER light curve around the observed phase jumps (insets or separate figure). 
+
+
+>>Sect. 4, page 5: "the new set of orbital parameters shows significant signs of temporal evolution with >>respect to the timing solution obtained from the first outburst (see also Markwardt & Strohmayer 2010; >>Altamirano et al. 2011)"; please refer here also to the paper by Ferrigno et al. 2011 (A&A, 525, A48), >>which reports the orbital solution for the system during the 2010 outburst. 
+
+Done.
+
+Sect. 4, page 5: "Similar behaviour is observed also during the 2010 outburst, where the fundamental phase shows a drop of ∼ 0.4"; please put a reference here. 
+
+
+Sect 4, page 6: "or spin-down torques due to emission of gravitational radiation"; I understand this is well beyond the scope and focus of the paper, however, can such spin-down torques be in principle detected by gravitational wave interferometers (e.g. as an unmodeled / burst event)?
+
+
+Sect 4, page 6: "(see e.g., the 2002 outburst of SAX J1808.4−3658)"; please put a reference here.
+
+
+Sect. 4.2: searches for the NIR counterpart of this source during quiescence have been reported, with the identification of possible candidates. Can in principle the quiescent NIR light curve of the system provide some evidence for binary eccentricity?
+
+Sect. 4.3.1, page 7: "Similarly to SAX J1808.4−3658, we inferred a significant long-term fast orbital expansion of the system, although almost two orders of magnitude faster (...)  Fast orbital period expansion (P_orb = 8.4(20) × 10−12s s−1) was observed for IGR J17062−6143 (...)"; here, if I understand correctly, the orbital period derivatives of two AMXPS (of the order of 10^(-12) s/s) are compared to the orbital period derivative of SWIFT J1749.4-2807 (of the order of 10^(-10) s/s). It is stated that these two orbital period derivatives are "faster" than the one computed for SWIFT J1749. Faster or slower?
+
+Sections "Highly non-conservative mass-transfer scenario" and "Gravitation quadrupole coupling" should be marked as sub-sections (or sections).
+
+Sect 4.3.1 (and following): some clarity would be useful when defining the terms of the various equations and formulae. E.g., system masses and mass derivatives are marked with both capitals (M) and lower cases (m). In Eq. 4 it should be clearly stated that the secondary mass derivative is negative since the secondary looses mass. The authors refer to Burderi et al. 2010 for details about Eq. 4. In that paper, the stellia index of the mass-radius relation is expressed as "n". Not a big issue, but maybe it would be useful to use also here the same notation. 
+
+Page 10: "we speculate that the orbital period variation delta_P_orb ∼ 0.140 s occurred over a time span of almost eleven years represents the first quarter 44 of a sinusoidal modulation characterised by a P_mod ∼ 44 yr and amplitude equal to delta_P_orb."; over which basis is made such an assumption?
+
+Sect. 4.3.2, page 11: "galactic plane" -> "Galactic plane".
+
+Conclusions: "these results would imply a highly non-conservative mass-transfer process in which the donor star transfers matter at a super-Eddington rate and only a tiny fraction (< 0.5%) accretes onto the compact object, which makes this scenario unlikely for the specific case of SWIFT J1749.4−2807" -> "these results would imply a highly non-conservative mass-transfer process in which the donor star transfers matter at a super-Eddington rate and only a tiny fraction o the transferred matter (< 0.5%) accretes onto the compact object, which makes this scenario unlikely for the specific case of SWIFT J1749.4−2807"; 
+
+Conclusions: it would be very useful to have references to the given subsections in the itemised summary. As an example, the need to invoke a super-Eddington rate for mass transfer is reported and discussed at the end of Sect. 4.3.1 (actually where the conservative mass transfer scenario is discussed), the need of a tiny fraction of matter to accrete onto the compact object is on the other hand reported in the section discussing the non-conservative mass scenario. In other words, the summary and conclusion section should enable the reader to quickly find in the text the main findings of the paper.

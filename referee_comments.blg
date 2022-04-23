@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: referee_comments.aux
+The style file: mnras.bst
+Database file #1: biblio.bib
+Repeated entry---line 631 of file biblio.bib
+ : @article{Mereminskiy2021
+ :                         ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 101 entries,
+            2881 wiz_defined-function locations,
+            1633 strings with 38809 characters,
+and the built_in function-call counts, 49182 in all, are:
+= -- 4095
+> -- 3474
+< -- 221
++ -- 1487
+- -- 529
+* -- 6194
+:= -- 7520
+add.period$ -- 0
+call.type$ -- 101
+change.case$ -- 203
+chr.to.int$ -- 95
+cite$ -- 101
+duplicate$ -- 2413
+empty$ -- 2400
+format.name$ -- 859
+if$ -- 8635
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 103
+newline$ -- 318
+num.names$ -- 677
+pop$ -- 475
+preamble$ -- 1
+purify$ -- 404
+quote$ -- 0
+skip$ -- 1534
+stack$ -- 0
+substring$ -- 2875
+swap$ -- 1361
+text.length$ -- 419
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 903
+warning$ -- 0
+while$ -- 750
+width$ -- 0
+write$ -- 1028
+(There was 1 error message)
