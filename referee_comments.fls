@@ -394,9 +394,6 @@ INPUT ./best_profile.pdf
 INPUT ./best_profile.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/newtx/ntxsy5.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT alpha_vs_m1_non_conservative.pdf
 INPUT ./alpha_vs_m1_non_conservative.pdf
 INPUT ./alpha_vs_m1_non_conservative.pdf

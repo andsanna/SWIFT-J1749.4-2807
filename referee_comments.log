@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.13)  19 APR 2022 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.13)  23 APR 2022 23:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -808,21 +808,21 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.285 
+l.286 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.285 
+l.286 
        <./plot_lc_phase_residuals_ref.pdf>]
 <best_profile.pdf, id=378, 881.2925pt x 1108.14pt>
 File: best_profile.pdf Graphic file (type pdf)
 <use best_profile.pdf>
-Package pdftex.def Info: best_profile.pdf  used on input line 289.
+Package pdftex.def Info: best_profile.pdf  used on input line 290.
 (pdftex.def)             Requested size: 254.0pt x 319.37404pt.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 289--290
+Overfull \hbox (10.0pt too wide) in paragraph at lines 290--291
  [][] 
  []
 
@@ -834,14 +834,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.302 
+l.303 
        <./best_profile.pdf>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 7.3pt on input line 322.
+(Font)              scaled to size 7.3pt on input line 324.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 5.5pt on input line 322.
+(Font)              scaled to size 5.5pt on input line 324.
  [7] [8]
-Underfull \hbox (badness 2512) in paragraph at lines 364--365
+Underfull \hbox (badness 2512) in paragraph at lines 367--368
 []\T1/ntxtlf/m/n/9 A pos-si-ble mech-a-nism pro-posed to ex-plain highly non-
  []
 
@@ -849,10 +849,10 @@ Underfull \hbox (badness 2512) in paragraph at lines 364--365
 File: alpha_vs_m1_non_conservative.pdf Graphic file (type pdf)
 <use alpha_vs_m1_non_conservative.pdf>
 Package pdftex.def Info: alpha_vs_m1_non_conservative.pdf  used on input line 3
-71.
+74.
 (pdftex.def)             Requested size: 254.0pt x 179.3873pt.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 371--372
+Overfull \hbox (10.0pt too wide) in paragraph at lines 374--375
  [][] 
  []
 
@@ -861,15 +861,15 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.381 \begin{eqnarray}
+l.384 \begin{eqnarray}
                        <./alpha_vs_m1_non_conservative.pdf>] [10]
-Underfull \hbox (badness 2326) in paragraph at lines 449--451
+Underfull \hbox (badness 2326) in paragraph at lines 453--455
 \T1/ntxtlf/m/n/9 The data uti-lized in this ar-ti-cle are pub-licly avail-able 
 at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--451
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
 [][]\T1/ntxtlf/m/n/9 https://heasarc.gsfc.nasa.gov/cgi-bin/W3Browse/w3browse.pl
 [][],
  []
@@ -886,18 +886,18 @@ File: t1ntxtt.fd 2012/04/20 v3.1
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 8.0pt on input line 55.
 
-Underfull \vbox (badness 2961) has occurred while \output is active []
+Underfull \vbox (badness 1859) has occurred while \output is active []
 
  [12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 482.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 486.
 
 [13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 482.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 486.
  (./referee_comments.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 482.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 482.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 486.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 486.
 Package rerunfilecheck Info: File `referee_comments.out' has not changed.
 (rerunfilecheck)             Checksum: BD26A32EC649480BEB1172CA1E5E1664;716.
 
@@ -905,16 +905,16 @@ Package rerunfilecheck Info: File `referee_comments.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.97499pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 482.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 486.
  ) 
 Here is how much of TeX's memory you used:
- 11260 strings out of 480608
- 158333 string characters out of 5903630
- 466202 words of memory out of 5000000
- 26739 multiletter control sequences out of 15000+600000
- 667249 words of font info for 232 fonts, out of 8000000 for 9000
+ 11263 strings out of 480608
+ 158369 string characters out of 5903630
+ 464166 words of memory out of 5000000
+ 26744 multiletter control sequences out of 15000+600000
+ 666680 words of font info for 230 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,46p,2922b,682s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,15n,46p,2922b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -933,10 +933,10 @@ sya.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/loc
 al/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on referee_comments.pdf (13 pages, 600831 bytes).
+Output written on referee_comments.pdf (13 pages, 601484 bytes).
 PDF statistics:
- 1049 PDF objects out of 1200 (max. 8388607)
- 981 compressed objects within 10 object streams
+ 1056 PDF objects out of 1200 (max. 8388607)
+ 988 compressed objects within 10 object streams
  155 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
