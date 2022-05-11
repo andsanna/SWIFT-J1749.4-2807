@@ -3,51 +3,51 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: referee_comments.aux
 The style file: mnras.bst
 Database file #1: biblio.bib
-Repeated entry---line 631 of file biblio.bib
+Repeated entry---line 693 of file biblio.bib
  : @article{Mereminskiy2021
  :                         ,
 I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 101 entries,
+You've used 104 entries,
             2881 wiz_defined-function locations,
-            1633 strings with 38809 characters,
-and the built_in function-call counts, 49182 in all, are:
-= -- 4095
-> -- 3474
-< -- 221
-+ -- 1487
-- -- 529
-* -- 6194
-:= -- 7520
+            1661 strings with 39933 characters,
+and the built_in function-call counts, 50914 in all, are:
+= -- 4227
+> -- 3603
+< -- 229
++ -- 1539
+- -- 552
+* -- 6407
+:= -- 7781
 add.period$ -- 0
-call.type$ -- 101
-change.case$ -- 203
-chr.to.int$ -- 95
-cite$ -- 101
-duplicate$ -- 2413
-empty$ -- 2400
-format.name$ -- 859
-if$ -- 8635
+call.type$ -- 104
+change.case$ -- 209
+chr.to.int$ -- 98
+cite$ -- 104
+duplicate$ -- 2497
+empty$ -- 2495
+format.name$ -- 890
+if$ -- 8953
 int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 103
-newline$ -- 318
-num.names$ -- 677
-pop$ -- 475
+missing$ -- 106
+newline$ -- 327
+num.names$ -- 701
+pop$ -- 497
 preamble$ -- 1
-purify$ -- 404
+purify$ -- 416
 quote$ -- 0
-skip$ -- 1534
+skip$ -- 1586
 stack$ -- 0
-substring$ -- 2875
-swap$ -- 1361
-text.length$ -- 419
+substring$ -- 2975
+swap$ -- 1413
+text.length$ -- 434
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 903
+type$ -- 930
 warning$ -- 0
-while$ -- 750
+while$ -- 774
 width$ -- 0
-write$ -- 1028
+write$ -- 1059
 (There was 1 error message)

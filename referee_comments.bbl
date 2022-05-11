@@ -252,6 +252,12 @@
 {Hartman} J.~M.,  et~al., 2008, \mn@doi [\apj] {10.1086/527461}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...675.1468H} {675, 1468}
 
+\bibitem[\protect\citeauthoryear{{Iacolina}, {Burgay}, {Burderi}, {Possenti}
+  \& {di Salvo}}{{Iacolina} et~al.}{2010}]{Iacolina:2010tn}
+{Iacolina} M.~N.,  {Burgay} M.,  {Burderi} L.,  {Possenti} A.,   {di Salvo} T.,
+   2010, \mn@doi [\aap] {10.1051/0004-6361/201014025}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010A&A...519A..13I} {519, A13}
+
 \bibitem[\protect\citeauthoryear{{Iaria} et~al.,}{{Iaria}
   et~al.}{2015}]{Iaria:2015ut}
 {Iaria} R.,  et~al., 2015, \mn@doi [\aap] {10.1051/0004-6361/201423402}, \href
@@ -493,6 +499,14 @@ Cambridge University Press
   {Iaria} R.,   {Lavagetto} G.,  2008, \mn@doi [\apj] {10.1086/533578}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...678.1273R} {678, 1273}
 
+\bibitem[\protect\citeauthoryear{{Riggio}, {Papitto}, {Burderi}  \& {di
+  Salvo}}{{Riggio} et~al.}{2011}]{Riggio:2011ua}
+{Riggio} A.,  {Papitto} A.,  {Burderi} L.,   {di Salvo} T.,  2011, in {Burgay}
+  M.,  {D'Amico} N.,  {Esposito} P.,  {Pellizzoni} A.,   {Possenti} A.,  eds,
+  American Institute of Physics Conference Series Vol. 1357, Radio Pulsars: An
+  Astrophysical Key to Unlock the Secrets of the Universe. pp 151--154,
+  \mn@doi{10.1063/1.3615103}
+
 \bibitem[\protect\citeauthoryear{{Sanna} et~al.,}{{Sanna}
   et~al.}{2016}]{Sanna:2016ty}
 {Sanna} A.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw740}, \href
@@ -555,6 +569,11 @@ Springer Series in Statistics, Springer, New York, NY
   et~al.}{2014}]{Stappers:2014wn}
 {Stappers} B.~W.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/790/1/39},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...790...39S} {790, 39}
+
+\bibitem[\protect\citeauthoryear{{Tailo} et~al.,}{{Tailo}
+  et~al.}{2018}]{Tailo:2018aa}
+{Tailo} M.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty1637}, \href
+  {http://adsabs.harvard.edu/abs/2018MNRAS.479..817T} {479, 817}
 
 \bibitem[\protect\citeauthoryear{{Thorsett}, {Arzoumanian}, {Camilo}  \&
   {Lyne}}{{Thorsett} et~al.}{1999}]{Thorsett:1999vo}

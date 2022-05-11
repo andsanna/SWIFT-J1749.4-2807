@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.13)  6 MAY 2022 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.13)  10 MAY 2022 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -787,7 +787,7 @@ Underfull \hbox (badness 1057) in paragraph at lines 189--190
 Underfull \vbox (badness 5388) has occurred while \output is active []
 
  [3]
-<plot_lc_phase_residuals_ref.pdf, id=296, 1206.5075pt x 809.0225pt>
+<plot_lc_phase_residuals_ref.pdf, id=302, 1206.5075pt x 809.0225pt>
 File: plot_lc_phase_residuals_ref.pdf Graphic file (type pdf)
 <use plot_lc_phase_residuals_ref.pdf>
 Package pdftex.def Info: plot_lc_phase_residuals_ref.pdf  used on input line 23
@@ -813,7 +813,7 @@ l.288
                                                   \fi \fi 
 l.288 
        <./plot_lc_phase_residuals_ref.pdf>]
-<best_profile.pdf, id=379, 881.2925pt x 1108.14pt>
+<best_profile.pdf, id=386, 881.2925pt x 1108.14pt>
 File: best_profile.pdf Graphic file (type pdf)
 <use best_profile.pdf>
 Package pdftex.def Info: best_profile.pdf  used on input line 292.
@@ -831,8 +831,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.305 
-       <./best_profile.pdf>]
+l.304 C
+       omplexity in the magnetic field structure could as well play a crucia...
+ <./best_profile.pdf>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 7.3pt on input line 326.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
@@ -842,7 +843,7 @@ Underfull \hbox (badness 2512) in paragraph at lines 369--370
 []\T1/ntxtlf/m/n/9 A pos-si-ble mech-a-nism pro-posed to ex-plain highly non-
  []
 
-<alpha_vs_m1_non_conservative.pdf, id=612, 650.93187pt x 459.7175pt>
+<alpha_vs_m1_non_conservative.pdf, id=622, 650.93187pt x 459.7175pt>
 File: alpha_vs_m1_non_conservative.pdf Graphic file (type pdf)
 <use alpha_vs_m1_non_conservative.pdf>
 Package pdftex.def Info: alpha_vs_m1_non_conservative.pdf  used on input line 3
@@ -853,13 +854,13 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 376--377
  [][] 
  []
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
-has been already used, duplicate ignored
+[9] [10pdfTeX warning (ext4): destination with the same identifier (name{figure
+.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.386 \begin{eqnarray}
-                       <./alpha_vs_m1_non_conservative.pdf>] [10] [11]
+l.422 
+       <./alpha_vs_m1_non_conservative.pdf>] [11]
 Underfull \hbox (badness 2326) in paragraph at lines 455--457
 \T1/ntxtlf/m/n/9 The data uti-lized in this ar-ti-cle are pub-licly avail-able 
 at
@@ -901,13 +902,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 488.
  ) 
 Here is how much of TeX's memory you used:
- 11263 strings out of 480608
- 158369 string characters out of 5903630
- 459908 words of memory out of 5000000
- 26744 multiletter control sequences out of 15000+600000
+ 11275 strings out of 480608
+ 158616 string characters out of 5903630
+ 455020 words of memory out of 5000000
+ 26753 multiletter control sequences out of 15000+600000
  666680 words of font info for 230 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,46p,2922b,656s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,15n,46p,3079b,626s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -926,10 +927,10 @@ sya.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/loc
 al/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on referee_comments.pdf (13 pages, 604958 bytes).
+Output written on referee_comments.pdf (13 pages, 607948 bytes).
 PDF statistics:
- 1057 PDF objects out of 1200 (max. 8388607)
- 989 compressed objects within 10 object streams
- 155 named destinations out of 1000 (max. 500000)
+ 1077 PDF objects out of 1200 (max. 8388607)
+ 1008 compressed objects within 11 object streams
+ 158 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
